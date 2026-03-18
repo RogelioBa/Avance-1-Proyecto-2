@@ -1,0 +1,6 @@
+models\Hobby.class
+models\Interaccion.class
+models\Estudiante.class
+models\Match.class
+models\Mensaje.class
+com\mycompany\amigositsonjpa\AmigosItsonJPA.class

@@ -1,0 +1,10 @@
+# Archivos de NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivos de Maven
+target/
